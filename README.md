@@ -1,3 +1,5 @@
+pretend i actually made a good readme
+
 [![kamoodi's github stats](https://github-readme-stats.vercel.app/api?username=kamoodi&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![kamoodi's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamoodi&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
